@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+📣 I'm a student of Mathematics and Data Analysis at Warsaw University of Technology. (2nd year)
+
+⚡ My projects: 
+- (currently working on this section :()
+
 <!--
 **pgroma/pgroma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
