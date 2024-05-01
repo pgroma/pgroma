@@ -6,6 +6,9 @@
 - [Poster about Harry Potter spells](https://github.com/kozaka93/2024L-ExploratoryDataAnalysis/tree/fa1acbf44b090049e432df8ea515faff290fad6e/projects/project1/strzelczyk_gromada_podgorski) - co-author
 - (there is more, but I'm working on this section 😌)
 
+📫 How to reach me:
+- patrycja.gromada@pw.edu.pl
+
 <!--
 **pgroma/pgroma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
