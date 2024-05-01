@@ -7,7 +7,7 @@
 - (there is more, but I'm working on this section 😌)
 
 📫 How to reach me:
-- patrycja.gromada@pw.edu.pl
+- patrycja.gromada.stud@pw.edu.pl
 
 <!--
 **pgroma/pgroma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
