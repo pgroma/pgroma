@@ -1,6 +1,6 @@
 ### Cześć 👋
 
-📣 Jestem studentem Matematyki i Analizy Danych na Politechnice Warszawskiej - w trakcie 2 roku.
+📣 Jestem studentką Matematyki i Analizy Danych na Politechnice Warszawskiej - w trakcie 2 roku.
 
 ⚡ Moje projekty:
 - [Plakat z analizą zaklęć w filmach Harry Potter](https://github.com/kozaka93/2024L-ExploratoryDataAnalysis/tree/fa1acbf44b090049e432df8ea515faff290fad6e/projects/project1/strzelczyk_gromada_podgorski) - współautor
