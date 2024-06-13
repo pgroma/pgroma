@@ -1,12 +1,13 @@
-### Hi there 👋
+### Cześć 👋
 
-📣 I'm a student of Mathematics and Data Analysis at Warsaw University of Technology. (2nd year)
+📣 Jestem studentem Matematyki i Analizy Danych na Politechnice Warszawskiej - w trakcie 2 roku.
 
-⚡ My projects: 
-- [Poster about Harry Potter spells](https://github.com/kozaka93/2024L-ExploratoryDataAnalysis/tree/fa1acbf44b090049e432df8ea515faff290fad6e/projects/project1/strzelczyk_gromada_podgorski) - co-author
-- (there is more, but I'm working on this section 😌)
+⚡ Moje projekty:
+- [Plakat z analizą zaklęć w filmach Harry Potter](https://github.com/kozaka93/2024L-ExploratoryDataAnalysis/tree/fa1acbf44b090049e432df8ea515faff290fad6e/projects/project1/strzelczyk_gromada_podgorski) - współautor
+- [bleh bleh, grafiki wrzucic]
+- (jest tego więcej, obecnie pracuję nad uzupełnieniem tej sekcji 😌)
 
-📫 How to reach me:
+📫 Kontakt:
 - patrycja.gromada.stud@pw.edu.pl
 
 <!--
