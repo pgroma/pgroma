@@ -1,6 +1,6 @@
 ### Cześć 👋
 
-📣 Jestem studentką Matematyki i Analizy Danych na Politechnice Warszawskiej - w trakcie 3 (ostatniego) roku. 
+📣 Jestem studentką Matematyki i Analizy Danych na Politechnice Warszawskiej - w trakcie 3 (ostatniego) roku. Obecnie interesuję się analizą danych i uczeniem maszynowym. 
 
 <br><br>
 Poniżej zostały wybrane najciekawsze projekty:
@@ -28,7 +28,7 @@ Poniżej zostały wybrane najciekawsze projekty:
 Readme do poszczególnych projektów, wydarzeń - w trakcie pisania!! 
 
 
-
+<br>
 📫 Kontakt:
 - patrycja.gromada.stud@pw.edu.pl
 
