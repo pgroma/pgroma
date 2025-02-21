@@ -1,9 +1,8 @@
 ### Cześć 👋
 
-📣 Jestem studentką Matematyki i Analizy Danych na Politechnice Warszawskiej - w trakcie 3 (ostatniego) roku.
+📣 Jestem studentką Matematyki i Analizy Danych na Politechnice Warszawskiej - w trakcie 3 (ostatniego) roku. 
 
 <br><br>
-
 Poniżej zostały wybrane najciekawsze projekty:
 
 ⚡ Projekty programistyczne:
