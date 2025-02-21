@@ -1,1 +1,1 @@
-Sekcja poświęcona wykonanym grafikom w ramach działaności w WRS Mini.
+Sekcja poświęcona wykonanym grafikom w ramach działalności w WRS Mini.
