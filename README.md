@@ -11,7 +11,7 @@ Poniżej zostały wybrane najciekawsze projekty:
 - [Projekt z podstaw przetwarzania danych](https://github.com/pgroma/pgroma/tree/48258840c067dfec073ee0bacfd9e50caf8949fa/Projekty/2023%20(semestr%202)), współautor, R, 2023, semestr 2
 
 
-<br><br>
+<br>
 🎨 Graficzne projekty:
 
 🔹 Na prośbę Wydziału Matematyki i Nauk Informacyjnych:
@@ -28,7 +28,7 @@ Poniżej zostały wybrane najciekawsze projekty:
 Readme do poszczególnych projektów, wydarzeń - w trakcie pisania!! 
 
 
-<br>
+<br><br>
 📫 Kontakt:
 - patrycja.gromada.stud@pw.edu.pl
 
