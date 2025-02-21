@@ -2,10 +2,15 @@
 
 📣 Jestem studentką Matematyki i Analizy Danych na Politechnice Warszawskiej - w trakcie 3 (ostatniego) roku.
 
-⚡ Projekty:
+
+
+Poniżej zostały wybrane najciekawsze projekty:
+
+⚡ Projekty programistyczne:
 - [Predykcja ryzyka kredytowego](https://github.com/pgroma/pgroma/tree/48258840c067dfec073ee0bacfd9e50caf8949fa/Projekty/2024%20(semestr%205)) - projekt samodzielny z Uczenia Maszynowego, Python Sci-Learn, 2024/2025, semestr 5
 - [Plakat z analizą zaklęć w filmach Harry Potter](https://github.com/kozaka93/2024L-ExploratoryDataAnalysis/tree/fa1acbf44b090049e432df8ea515faff290fad6e/projects/project1/strzelczyk_gromada_podgorski) - współautor, R, 2024, semestr 4
 - [Projekt z podstaw przetwarzania danych](https://github.com/pgroma/pgroma/tree/48258840c067dfec073ee0bacfd9e50caf8949fa/Projekty/2023%20(semestr%202)), współautor, R, 2023, semestr 2
+
 
 
 🎨 Graficzne projekty:
@@ -19,9 +24,10 @@
 - [Całkonalia](https://github.com/pgroma/pgroma/tree/48258840c067dfec073ee0bacfd9e50caf8949fa/Grafiki/2024/Ca%C5%82konalia%202024) - piknik wydziału MiNi i Fizyki, 2024, semestr 4. 
 - [Mikołaj na bombce](https://github.com/pgroma/pgroma/tree/8e6251d3ebf2dd3a1a1e4e1ef992b445d6920738/Grafiki/Miko%C5%82aj%20na%20bombce) - mikolajki Wydziału MiNi, 2023, semestr 3.
 
-  
-Zostały wybrane najciekawsze projekty ;)
+
 Readme do poszczególnych projektów, wydarzeń - w trakcie pisania!! 
+
+
 
 📫 Kontakt:
 - patrycja.gromada.stud@pw.edu.pl
