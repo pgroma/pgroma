@@ -2,7 +2,7 @@
 
 📣 Jestem studentką Matematyki i Analizy Danych na Politechnice Warszawskiej - w trakcie 3 (ostatniego) roku. Obecnie interesuję się analizą danych i uczeniem maszynowym. 
 
-<br><br>
+<br>
 Poniżej zostały wybrane najciekawsze projekty:<br>(Readme do poszczególnych projektów, wydarzeń - w trakcie pisania!!)<br>
 
 
@@ -13,7 +13,7 @@ Poniżej zostały wybrane najciekawsze projekty:<br>(Readme do poszczególnych p
 
 
 <br>
-🎨 Graficzne projekty:
+🎨 Graficzne projekty:  
 
 🔹 Na prośbę Wydziału Matematyki i Nauk Informacyjnych:  
 - [Akt powołania Rady Pracodawców Wydziału MiNi](https://github.com/pgroma/pgroma/tree/48258840c067dfec073ee0bacfd9e50caf8949fa/Grafiki/2025/Akt%20powo%C5%82ania%20do%20rady%20pracodawc%C3%B3w) - samodzielna praca, 2025, semestr 5
