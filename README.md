@@ -23,9 +23,6 @@ Poniżej zostały wybrane najciekawsze projekty:<br>(Readme do poszczególnych p
 - [Mikołaj na bombce](https://github.com/pgroma/pgroma/tree/8e6251d3ebf2dd3a1a1e4e1ef992b445d6920738/Grafiki/Miko%C5%82aj%20na%20bombce) - mikołajki Wydziału MiNi, 2023, semestr 3.
 
 
-
-
-
 <br><br>
 ### 📫 Kontakt:
 - patrycja.gromada.stud@pw.edu.pl
