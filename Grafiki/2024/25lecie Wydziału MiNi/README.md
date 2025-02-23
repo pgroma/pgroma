@@ -6,7 +6,7 @@ Tablice są nadal powieszone w budynku Wydziału MiNi. Znajdują się na parterz
 
 ![](1.png)
 
-
+    
 ![](2.jpg)
 
 
