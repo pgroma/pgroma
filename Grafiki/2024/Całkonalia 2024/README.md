@@ -1,4 +1,4 @@
-Miałam zaszczyt zajmować się oprawą graficzną corocznego pikniku Wydziału Matematyki i Nauk Informacyjnych oraz Wydziału FIzyki w 2024 roku, tzn. "Całkonalia". .
+Miałam zaszczyt zajmować się oprawą graficzną corocznego pikniku Wydziału Matematyki i Nauk Informacyjnych oraz Wydziału FIzyki w 2024 roku, tzn. "Całkonalia".
 Poniżej znajduje się część przygotowanych ilustracji.
 
 Poniżej znajduje się plakat promujący wydarzenie. Plakat ten jest dla mnie szczególnie ważny ze względu na to, że namalowałam go ręcznie w programie graficznym od zera.
