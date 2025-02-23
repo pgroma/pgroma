@@ -21,9 +21,8 @@ Poniżej zostały wybrane najciekawsze projekty:<br>(Readme do poszczególnych p
 - [Wigilia MiNi 2024](https://github.com/pgroma/pgroma/tree/48258840c067dfec073ee0bacfd9e50caf8949fa/Grafiki/2024/Wigilia%20MiNi%202024) - tegoroczna wigilia wydziału MiNi, 2024, semestr 5. 
 - [Całkonalia](https://github.com/pgroma/pgroma/tree/48258840c067dfec073ee0bacfd9e50caf8949fa/Grafiki/2024/Ca%C5%82konalia%202024) - piknik wydziału MiNi i Fizyki, 2024, semestr 4. 
 - [Mikołaj na bombce](https://github.com/pgroma/pgroma/tree/8e6251d3ebf2dd3a1a1e4e1ef992b445d6920738/Grafiki/Miko%C5%82aj%20na%20bombce) - mikołajki Wydziału MiNi, 2023, semestr 3.
-
-
-<br><br>
+  
+<br>
 ### 📫 Kontakt:
 - patrycja.gromada.stud@pw.edu.pl
 
