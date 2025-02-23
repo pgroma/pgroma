@@ -8,3 +8,6 @@ Plakat promujący wydarzenie:
 Tło na wydarzenie na Facebook:
 
 ![](mini_wigilia_cover.jpg)
+
+Plakat powieszony w budynku: 
+![](mini_wigilia_photo.jpg)
