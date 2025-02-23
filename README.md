@@ -6,14 +6,15 @@
 Poniżej zostały wybrane najciekawsze projekty:<br>(Readme do poszczególnych projektów, wydarzeń - w trakcie pisania!!)<br>
 <br>
 
-## ⚡ Projekty programistyczne:
+#### ⚡ Projekty programistyczne:
 - [Predykcja ryzyka kredytowego](https://github.com/pgroma/pgroma/tree/48258840c067dfec073ee0bacfd9e50caf8949fa/Projekty/2024%20(semestr%205)) - projekt samodzielny z Uczenia Maszynowego, Python Sci-Learn, 2024/2025, semestr 5
 - [Plakat z analizą zaklęć w filmach Harry Potter](https://github.com/kozaka93/2024L-ExploratoryDataAnalysis/tree/fa1acbf44b090049e432df8ea515faff290fad6e/projects/project1/strzelczyk_gromada_podgorski) - współautor, R, 2024, semestr 4
 - [Projekt z podstaw przetwarzania danych](https://github.com/pgroma/pgroma/tree/48258840c067dfec073ee0bacfd9e50caf8949fa/Projekty/2023%20(semestr%202)), współautor, R, 2023, semestr 2
 
 
 <br>
-## 🎨 Graficzne projekty:  
+#### 🎨 Graficzne projekty:  
+
 🔹 Na prośbę Wydziału Matematyki i Nauk Informacyjnych:  
 - [Akt powołania Rady Pracodawców Wydziału MiNi](https://github.com/pgroma/pgroma/tree/48258840c067dfec073ee0bacfd9e50caf8949fa/Grafiki/2025/Akt%20powo%C5%82ania%20do%20rady%20pracodawc%C3%B3w) - samodzielna praca, 2025, semestr 5
 - [Tablica upamiętniająca zmarłych profesorów Wydziału Mini](https://github.com/pgroma/pgroma/tree/48258840c067dfec073ee0bacfd9e50caf8949fa/Grafiki/2024/25lecie%20Wydzia%C5%82u%20MiNi) - samodzielna praca, na 25-lecie Wydziału MiNi, 2024, semestr 5. Nadal można zobaczyć na żywo w budynku Wydziału.
