@@ -4,8 +4,9 @@ Jubileusz był obchodzony 28.11.2024 r. Moim zadaniem było stworzenie tablicy u
 Tablice są nadal powieszone w budynku Wydziału MiNi. Znajdują się na parterze za szklanymi windami.  
 ![](mini_25lecie_photo.jpg)
 
-|------------|------------|
-| ![](1.png) | ![](2.png) |
+![](1.png)
+
+![](2.png)
 
 
 
