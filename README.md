@@ -18,14 +18,14 @@ Poniżej zostały wybrane najciekawsze projekty:<br>(Readme do poszczególnych p
 - [Tablica upamiętniająca zmarłych profesorów Wydziału Mini](https://github.com/pgroma/pgroma/tree/5e2e3f4b69b61acba7eb2eb06b3e553142278fd3/Grafiki/2024/25lecie%20Wydzia%C5%82u%20MiNi) - samodzielna praca, na 25-lecie Wydziału MiNi, 2024, semestr 5. Nadal można zobaczyć na żywo w budynku Wydziału.
 
 🔹 Na prośbę Wydziałowej Rady Studentów - wszystkie wydarzenia można wyszukać na FB po słowach kluczowych:  
-- [Wigilia MiNi 2024](https://github.com/pgroma/pgroma/tree/48258840c067dfec073ee0bacfd9e50caf8949fa/Grafiki/2024/Wigilia%20MiNi%202024) - tegoroczna wigilia wydziału MiNi, 2024, semestr 5. 
-- [Całkonalia](https://github.com/pgroma/pgroma/tree/48258840c067dfec073ee0bacfd9e50caf8949fa/Grafiki/2024/Ca%C5%82konalia%202024) - piknik wydziału MiNi i Fizyki, 2024, semestr 4. 
-- [Mikołaj na bombce](https://github.com/pgroma/pgroma/tree/8e6251d3ebf2dd3a1a1e4e1ef992b445d6920738/Grafiki/Miko%C5%82aj%20na%20bombce) - mikołajki Wydziału MiNi, 2023, semestr 3.
+- [Wigilia MiNi 2024](https://github.com/pgroma/pgroma/tree/2963d99a73fec6de781578adc6c2f4ad269ad4d9/Grafiki/2024/Wigilia%20MiNi%202024) - tegoroczna wigilia wydziału MiNi, 2024, semestr 5. 
+- [Całkonalia](https://github.com/pgroma/pgroma/tree/2963d99a73fec6de781578adc6c2f4ad269ad4d9/Grafiki/2024/Ca%C5%82konalia%202024) - piknik wydziału MiNi i Fizyki, 2024, semestr 4. 
+- [Mikołaj na bombce](https://github.com/pgroma/pgroma/tree/2963d99a73fec6de781578adc6c2f4ad269ad4d9/Grafiki/Miko%C5%82aj%20na%20bombce)- mikołajki Wydziału MiNi, 2023, semestr 3.
 
   
 
 ### 📫 Kontakt:
-- patrycja.gromada.stud@pw.edu.pl
+- patrycja.gromada.stud at pw.edu.pl
 
 <!--
 **pgroma/pgroma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
