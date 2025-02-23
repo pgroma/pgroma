@@ -8,4 +8,4 @@ Plakat promujący wydarzenie:
 <br>
 Tło na wydarzenie na Facebook:
 
-![](mikolajki_2024_cover.jpg)
+![](mikolajki_2024_cover.png)
