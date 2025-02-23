@@ -2,4 +2,4 @@ Zostałam poproszona przez WRS MiNi o stworzenie grafik promocyjnych wyjazdu int
 Wyjazd odbył się 16.09.2024 r.
 
 Tło na wydarzenie na Facebook:
-![](miniowka_2024.png)
+![](miniowka_2024.jpg)
