@@ -5,6 +5,7 @@ Tablice są nadal powieszone w budynku Wydziału MiNi. Znajdują się na parterz
 ![](mini_25lecie.jpg)
 
 ![](1.png)
+
 ![](2.jpg)
 
 
