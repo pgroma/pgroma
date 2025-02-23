@@ -11,8 +11,6 @@ Poniżej zostały wybrane najciekawsze projekty:<br>(Readme do poszczególnych p
 - [Plakat z analizą zaklęć w filmach Harry Potter](https://github.com/kozaka93/2024L-ExploratoryDataAnalysis/tree/fa1acbf44b090049e432df8ea515faff290fad6e/projects/project1/strzelczyk_gromada_podgorski) - współautor, R, 2024, semestr 4
 - [Projekt z podstaw przetwarzania danych](https://github.com/pgroma/pgroma/tree/48258840c067dfec073ee0bacfd9e50caf8949fa/Projekty/2023%20(semestr%202)), współautor, R, 2023, semestr 2
 
-
-<br>
 #### 🎨 Graficzne projekty:  
 
 🔹 Na prośbę Wydziału Matematyki i Nauk Informacyjnych:  
