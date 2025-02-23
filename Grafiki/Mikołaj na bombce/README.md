@@ -2,5 +2,6 @@ Wydarzenie było imprezą klubową w klubie "Stodoła" dnia 14.12.2023r. Zostalo
 Plakat promujący wydarzenie:
 ![](fromsamanthahowells.png)
 
+<br>
 Naklejka:
 ![](MIKOŁAJ.jpg)
