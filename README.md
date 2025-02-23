@@ -27,7 +27,7 @@ Poniżej zostały wybrane najciekawsze projekty:<br>(Readme do poszczególnych p
 
 
 <br><br>
-📫 Kontakt:
+### 📫 Kontakt:
 - patrycja.gromada.stud@pw.edu.pl
 
 <!--
