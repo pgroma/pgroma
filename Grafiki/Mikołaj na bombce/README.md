@@ -4,4 +4,5 @@ Plakat promujący wydarzenie:
 
 <br>
 Naklejka:
+
 ![](MIKOŁAJ.jpg)
