@@ -3,13 +3,13 @@
 📣 Jestem studentką Matematyki i Analizy Danych na Politechnice Warszawskiej - w trakcie 3 (ostatniego) roku. Obecnie interesuję się analizą danych i uczeniem maszynowym. 
 
 <br>
-Poniżej zostały wybrane najciekawsze projekty:<br>(Readme do poszczególnych projektów, wydarzeń - w trakcie pisania!!)<br>
+Poniżej zostały wybrane najciekawsze projekty:
 <br>
 
 #### ⚡ Projekty programistyczne:
-- [Predykcja ryzyka kredytowego](https://github.com/pgroma/pgroma/tree/48258840c067dfec073ee0bacfd9e50caf8949fa/Projekty/2024%20(semestr%205)) - projekt samodzielny z Uczenia Maszynowego, Python Sci-Learn, 2024/2025, semestr 5
+- [Predykcja ryzyka kredytowego](https://github.com/pgroma/pgroma/tree/205be232887c1cbbf8de18bce4c8a50c22d7617e/Projekty/2024%20(semestr%205)) - projekt samodzielny z Uczenia Maszynowego, Python Sci-Learn, 2024/2025, semestr 5
 - [Plakat z analizą zaklęć w filmach Harry Potter](https://github.com/kozaka93/2024L-ExploratoryDataAnalysis/tree/fa1acbf44b090049e432df8ea515faff290fad6e/projects/project1/strzelczyk_gromada_podgorski) - współautor, R, 2024, semestr 4
-- [Projekt z podstaw przetwarzania danych](https://github.com/pgroma/pgroma/tree/48258840c067dfec073ee0bacfd9e50caf8949fa/Projekty/2023%20(semestr%202)), współautor, R, 2023, semestr 2
+- [Projekt z podstaw przetwarzania danych](https://github.com/pgroma/pgroma/tree/205be232887c1cbbf8de18bce4c8a50c22d7617e/Projekty/2023%20(semestr%202)), współautor, R, 2023, semestr 2
 
 #### 🎨 Graficzne projekty:  
 
@@ -22,7 +22,6 @@ Poniżej zostały wybrane najciekawsze projekty:<br>(Readme do poszczególnych p
 - [Całkonalia](https://github.com/pgroma/pgroma/tree/2963d99a73fec6de781578adc6c2f4ad269ad4d9/Grafiki/2024/Ca%C5%82konalia%202024) - piknik wydziału MiNi i Fizyki, 2024, semestr 4. 
 - [Mikołaj na bombce](https://github.com/pgroma/pgroma/tree/2963d99a73fec6de781578adc6c2f4ad269ad4d9/Grafiki/Miko%C5%82aj%20na%20bombce)- mikołajki Wydziału MiNi, 2023, semestr 3.
 
-  
 
 ### 📫 Kontakt:
 - patrycja.gromada.stud at pw.edu.pl
