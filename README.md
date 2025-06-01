@@ -15,7 +15,7 @@ Poniżej zostały wybrane najciekawsze projekty:
 
 🔹 Na prośbę Wydziału Matematyki i Nauk Informacyjnych:  
 - [Akt powołania Rady Pracodawców Wydziału MiNi](https://github.com/pgroma/pgroma/tree/2a733e0bb6c5a610e1d23efaad788cb6f7214395/Grafiki/2025/Akt%20powo%C5%82ania%20do%20rady%20pracodawc%C3%B3w) - samodzielna praca, 2025, semestr 5
-- [Tablica upamiętniająca zmarłych profesorów Wydziału Mini](https://github.com/pgroma/pgroma/tree/5e2e3f4b69b61acba7eb2eb06b3e553142278fd3/Grafiki/2024/25lecie%20Wydzia%C5%82u%20MiNi) - samodzielna praca, na 25-lecie Wydziału MiNi, 2024, semestr 5. Nadal można zobaczyć na żywo w budynku Wydziału.
+- [Tablica upamiętniająca zmarłych profesorów Wydziału Mini](https://github.com/pgroma/pgroma/tree/5e2e3f4b69b61acba7eb2eb06b3e553142278fd3/Grafiki/2024/25lecie%20Wydzia%C5%82u%20MiNi) - samodzielna praca, na 25-lecie Wydziału MiNi, 2024, semestr 5. Została powieszona w budynku Wydziału.
 
 🔹 Na prośbę Wydziałowej Rady Studentów - wszystkie wydarzenia można wyszukać na FB po słowach kluczowych:  
 - [Wigilia MiNi 2024](https://github.com/pgroma/pgroma/tree/2963d99a73fec6de781578adc6c2f4ad269ad4d9/Grafiki/2024/Wigilia%20MiNi%202024) - tegoroczna wigilia wydziału MiNi, 2024, semestr 5. 
