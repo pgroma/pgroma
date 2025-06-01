@@ -1,6 +1,6 @@
 ### Cześć 👋
 
-📣 Jestem studentką Matematyki i Analizy Danych na Politechnice Warszawskiej - w trakcie 3 (ostatniego) roku. Obecnie interesuję się analizą danych i uczeniem maszynowym. 
+📣 Jestem studentką Matematyki i Analizy Danych na Politechnice Warszawskiej - w trakcie 3 roku. Obecnie interesuję się analizą danych i uczeniem maszynowym. 
 
 <br>
 Poniżej zostały wybrane najciekawsze projekty:
