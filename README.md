@@ -18,7 +18,7 @@ Poniżej zostały wybrane najciekawsze projekty:
 - [Tablica upamiętniająca zmarłych profesorów Wydziału Mini](https://github.com/pgroma/pgroma/tree/5e2e3f4b69b61acba7eb2eb06b3e553142278fd3/Grafiki/2024/25lecie%20Wydzia%C5%82u%20MiNi) - samodzielna praca, na 25-lecie Wydziału MiNi, 2024, semestr 5. Tablica upamiętniająca została powieszona w budynku Wydziału.
 
 🔹 Na prośbę Wydziałowej Rady Studentów - wszystkie wydarzenia można wyszukać na FB po słowach kluczowych:  
-- [Całkonalia 2025]() - piknik wydziału MiNi i Fizyki, 2025, semestr 6. 
+- [Całkonalia 2025](https://github.com/pgroma/pgroma/tree/1836538ae83a3e72f8b20a4b1bcbb732a91a1cef/Grafiki/2025/Ca%C5%82konalia%202025) - piknik wydziału MiNi i Fizyki, 2025, semestr 6. 
 - [Wigilia MiNi 2024](https://github.com/pgroma/pgroma/tree/2963d99a73fec6de781578adc6c2f4ad269ad4d9/Grafiki/2024/Wigilia%20MiNi%202024) - tegoroczna wigilia wydziału MiNi, 2024, semestr 5.
 - [Miniówka 2024](https://github.com/pgroma/pgroma/tree/f597c984abe5b27bbe91cc27683ddd9aa2719c54/Grafiki/2024/Mini%C3%B3wka%20wyjazd%20zerowy%202024) - wyjazd integracyjny organizowany we wrześniu dla pierwszorocznych studentów wydziału MiNI, 2024, semestr 4. 
 - [Całkonalia 2024](https://github.com/pgroma/pgroma/tree/2963d99a73fec6de781578adc6c2f4ad269ad4d9/Grafiki/2024/Ca%C5%82konalia%202024) - piknik wydziału MiNi i Fizyki, 2024, semestr 4. 
