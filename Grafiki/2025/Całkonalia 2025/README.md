@@ -1,6 +1,10 @@
 Wykonałam teogroczoną oprawę graficzną pikniku Wydziału Matematyki i Nauk Informacyjnych oraz Wydziału FIzyki w 2025 roku, tzn. "Całkonalia".
 Poniżej znajduje się część przygotowanych ilustracji.
 
+Początkowy zamysł, który nie został przyjęty przez grupę organizacyjną:
+![](calkonalia_2025_draft.png)
+
+
 Poniżej znajduje się plakat promujący wydarzenie:
 ![](plakat_calkonalia+2025.png)
 
