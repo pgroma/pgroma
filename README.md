@@ -1,6 +1,6 @@
 ### Cześć 👋
 
-📣 Jestem studentką Matematyki i Analizy Danych na Politechnice Warszawskiej - w trakcie 3 roku. Obecnie interesuję się analizą danych i uczeniem maszynowym. W wolnej chwili maluję bądź zajmuję się tworzeniem grafik na wydarzenia orgzanizowane przez Wydziałową Radę Studentów Wydziału Matematyki i Nauk Informacyjnych. 
+📣 Jestem studentką Matematyki i Analizy Danych na Politechnice Warszawskiej - w trakcie 3 roku, 6-stego semestru. Obecnie interesuję się analizą danych i uczeniem maszynowym. W wolnej chwili maluję bądź zajmuję się tworzeniem grafik na wydarzenia orgzanizowane przez Wydziałową Radę Studentów Wydziału Matematyki i Nauk Informacyjnych. 
 
 <br>
 Poniżej zostały wybrane najciekawsze projekty:
